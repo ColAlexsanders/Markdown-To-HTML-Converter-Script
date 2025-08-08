@@ -1,7 +1,7 @@
 # Markdown-To-HTML-Converter-Script
 Converting markdown files to html for further editing and to print the document as a PDF through the print functionality found in most browsers
 
-This is a very simple python script I wrote at work which is mainly used to write documents in markdown in environments where you don't want to use word but you're unable to install programs like Pandoc, Latex, etc. The HTML file that is generated after the script is ran would be used to format images, text, etc. 
+This is a very simple python script I wrote at work which is mainly used to write documents in markdown in environments where you don't want to use Microsoft Word but you're unable to install programs like Pandoc, Latex, etc. The HTML file that is generated after the script is ran would be used to format images, text, etc. 
 
 # Usage
 First off, you're going to want to have python installed. Then, you're going to want to use pip through your terminal of choice to install the markdown library:
