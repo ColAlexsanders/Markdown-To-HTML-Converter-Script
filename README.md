@@ -10,7 +10,7 @@ First off, you're going to want to have python installed. Then, you're going to 
 pip install markdown
 ```
 
-Then you're going to want to clone this repository, or download the zip file and extract that into one of your directories. After that, change your directory to the one where the script is stored and run the script with this command if you're on Windows:
+Clone this repository, or download the zip file and extract that into one of your directories. After that, change your directory to the one where the script is stored and run the script with this command if you're on Windows:
 
 ```
 python .\Markdown_HTML_Conversion_Script.py
